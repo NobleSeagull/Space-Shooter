@@ -1,0 +1,175 @@
+﻿  Worker.cpp
+c:\users\pixir\desktop\college stuff\ai\spaceshooter\include\graph.h(141): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\pixir\desktop\college stuff\ai\spaceshooter\include\graph.h(159): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\pixir\desktop\college stuff\ai\spaceshooter\include\graph.h(132): warning C4101: 'pTemp': unreferenced local variable
+c:\users\pixir\desktop\college stuff\ai\spaceshooter\include\managedsprite.h(41): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\pixir\desktop\college stuff\ai\spaceshooter\include\cannon.h(41): warning C4305: 'initializing': truncation from 'double' to 'const float'
+c:\users\pixir\desktop\college stuff\ai\spaceshooter\src\worker.cpp(8): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\pixir\desktop\college stuff\ai\spaceshooter\src\worker.cpp(9): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\pixir\desktop\college stuff\ai\spaceshooter\src\worker.cpp(11): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\pixir\desktop\college stuff\ai\spaceshooter\src\worker.cpp(12): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\pixir\desktop\college stuff\ai\spaceshooter\src\worker.cpp(57): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\pixir\desktop\college stuff\ai\spaceshooter\src\worker.cpp(68): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\pixir\desktop\college stuff\ai\spaceshooter\src\worker.cpp(74): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\pixir\desktop\college stuff\ai\spaceshooter\src\worker.cpp(75): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\pixir\desktop\college stuff\ai\spaceshooter\src\worker.cpp(79): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\pixir\desktop\college stuff\ai\spaceshooter\src\worker.cpp(80): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\pixir\desktop\college stuff\ai\spaceshooter\src\worker.cpp(97): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\pixir\desktop\college stuff\ai\spaceshooter\src\worker.cpp(119): warning C4305: 'initializing': truncation from 'double' to 'float'
+  Sweeper.cpp
+c:\users\pixir\desktop\college stuff\ai\spaceshooter\include\graph.h(141): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\pixir\desktop\college stuff\ai\spaceshooter\include\graph.h(159): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\pixir\desktop\college stuff\ai\spaceshooter\include\graph.h(132): warning C4101: 'pTemp': unreferenced local variable
+c:\users\pixir\desktop\college stuff\ai\spaceshooter\include\managedsprite.h(41): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\pixir\desktop\college stuff\ai\spaceshooter\include\cannon.h(41): warning C4305: 'initializing': truncation from 'double' to 'const float'
+c:\users\pixir\desktop\college stuff\ai\spaceshooter\src\sweeper.cpp(5): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\pixir\desktop\college stuff\ai\spaceshooter\src\sweeper.cpp(6): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\pixir\desktop\college stuff\ai\spaceshooter\src\sweeper.cpp(75): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\pixir\desktop\college stuff\ai\spaceshooter\src\sweeper.cpp(85): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\pixir\desktop\college stuff\ai\spaceshooter\src\sweeper.cpp(92): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\pixir\desktop\college stuff\ai\spaceshooter\src\sweeper.cpp(93): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\pixir\desktop\college stuff\ai\spaceshooter\src\sweeper.cpp(97): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\pixir\desktop\college stuff\ai\spaceshooter\src\sweeper.cpp(98): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\pixir\desktop\college stuff\ai\spaceshooter\src\sweeper.cpp(112): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\pixir\desktop\college stuff\ai\spaceshooter\src\sweeper.cpp(161): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\pixir\desktop\college stuff\ai\spaceshooter\src\sweeper.cpp(220): warning C4305: 'initializing': truncation from 'double' to 'float'
+  Space.cpp
+c:\users\pixir\desktop\college stuff\ai\spaceshooter\include\managedsprite.h(41): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\pixir\desktop\college stuff\ai\spaceshooter\src\space.cpp(12): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\pixir\desktop\college stuff\ai\spaceshooter\src\space.cpp(13): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Radar.cpp
+c:\users\pixir\desktop\college stuff\ai\spaceshooter\include\graph.h(141): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\pixir\desktop\college stuff\ai\spaceshooter\include\graph.h(159): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\pixir\desktop\college stuff\ai\spaceshooter\include\graph.h(132): warning C4101: 'pTemp': unreferenced local variable
+c:\users\pixir\desktop\college stuff\ai\spaceshooter\include\managedsprite.h(41): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\pixir\desktop\college stuff\ai\spaceshooter\src\radar.cpp(20): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\pixir\desktop\college stuff\ai\spaceshooter\src\radar.cpp(21): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\pixir\desktop\college stuff\ai\spaceshooter\src\radar.cpp(55): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Predator.cpp
+c:\users\pixir\desktop\college stuff\ai\spaceshooter\include\graph.h(141): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\pixir\desktop\college stuff\ai\spaceshooter\include\graph.h(159): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\pixir\desktop\college stuff\ai\spaceshooter\include\graph.h(132): warning C4101: 'pTemp': unreferenced local variable
+c:\users\pixir\desktop\college stuff\ai\spaceshooter\include\managedsprite.h(41): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\pixir\desktop\college stuff\ai\spaceshooter\include\cannon.h(41): warning C4305: 'initializing': truncation from 'double' to 'const float'
+c:\users\pixir\desktop\college stuff\ai\spaceshooter\src\predator.cpp(5): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\pixir\desktop\college stuff\ai\spaceshooter\src\predator.cpp(6): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\pixir\desktop\college stuff\ai\spaceshooter\src\predator.cpp(114): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\pixir\desktop\college stuff\ai\spaceshooter\src\predator.cpp(122): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\pixir\desktop\college stuff\ai\spaceshooter\src\predator.cpp(127): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\pixir\desktop\college stuff\ai\spaceshooter\src\predator.cpp(132): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\pixir\desktop\college stuff\ai\spaceshooter\src\predator.cpp(140): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\pixir\desktop\college stuff\ai\spaceshooter\src\predator.cpp(150): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\pixir\desktop\college stuff\ai\spaceshooter\src\predator.cpp(159): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\pixir\desktop\college stuff\ai\spaceshooter\src\predator.cpp(169): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\pixir\desktop\college stuff\ai\spaceshooter\src\predator.cpp(178): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\pixir\desktop\college stuff\ai\spaceshooter\src\predator.cpp(179): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\pixir\desktop\college stuff\ai\spaceshooter\src\predator.cpp(183): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\pixir\desktop\college stuff\ai\spaceshooter\src\predator.cpp(184): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\pixir\desktop\college stuff\ai\spaceshooter\src\predator.cpp(203): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\pixir\desktop\college stuff\ai\spaceshooter\src\predator.cpp(204): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\pixir\desktop\college stuff\ai\spaceshooter\src\predator.cpp(208): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\pixir\desktop\college stuff\ai\spaceshooter\src\predator.cpp(209): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\pixir\desktop\college stuff\ai\spaceshooter\src\predator.cpp(224): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\pixir\desktop\college stuff\ai\spaceshooter\src\predator.cpp(268): warning C4305: 'initializing': truncation from 'double' to 'float'
+  PowerUp.cpp
+c:\users\pixir\desktop\college stuff\ai\spaceshooter\include\graph.h(141): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\pixir\desktop\college stuff\ai\spaceshooter\include\graph.h(159): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\pixir\desktop\college stuff\ai\spaceshooter\include\graph.h(132): warning C4101: 'pTemp': unreferenced local variable
+c:\users\pixir\desktop\college stuff\ai\spaceshooter\include\managedsprite.h(41): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\pixir\desktop\college stuff\ai\spaceshooter\src\powerup.cpp(5): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\pixir\desktop\college stuff\ai\spaceshooter\src\powerup.cpp(6): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Player.cpp
+c:\users\pixir\desktop\college stuff\ai\spaceshooter\include\graph.h(141): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\pixir\desktop\college stuff\ai\spaceshooter\include\graph.h(159): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\pixir\desktop\college stuff\ai\spaceshooter\include\graph.h(132): warning C4101: 'pTemp': unreferenced local variable
+c:\users\pixir\desktop\college stuff\ai\spaceshooter\include\managedsprite.h(41): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\pixir\desktop\college stuff\ai\spaceshooter\include\cannon.h(41): warning C4305: 'initializing': truncation from 'double' to 'const float'
+c:\users\pixir\desktop\college stuff\ai\spaceshooter\src\player.cpp(5): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\pixir\desktop\college stuff\ai\spaceshooter\src\player.cpp(6): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\pixir\desktop\college stuff\ai\spaceshooter\src\player.cpp(46): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\pixir\desktop\college stuff\ai\spaceshooter\src\player.cpp(47): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\pixir\desktop\college stuff\ai\spaceshooter\src\player.cpp(53): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\pixir\desktop\college stuff\ai\spaceshooter\src\player.cpp(54): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\pixir\desktop\college stuff\ai\spaceshooter\src\player.cpp(58): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\pixir\desktop\college stuff\ai\spaceshooter\src\player.cpp(59): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\pixir\desktop\college stuff\ai\spaceshooter\src\player.cpp(174): warning C4305: '*=': truncation from 'double' to 'float'
+  Nest.cpp
+c:\users\pixir\desktop\college stuff\ai\spaceshooter\include\graph.h(141): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\pixir\desktop\college stuff\ai\spaceshooter\include\graph.h(159): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\pixir\desktop\college stuff\ai\spaceshooter\include\graph.h(132): warning C4101: 'pTemp': unreferenced local variable
+c:\users\pixir\desktop\college stuff\ai\spaceshooter\include\managedsprite.h(41): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\pixir\desktop\college stuff\ai\spaceshooter\include\cannon.h(41): warning C4305: 'initializing': truncation from 'double' to 'const float'
+c:\users\pixir\desktop\college stuff\ai\spaceshooter\src\nest.cpp(8): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\pixir\desktop\college stuff\ai\spaceshooter\src\nest.cpp(9): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\pixir\desktop\college stuff\ai\spaceshooter\src\nest.cpp(77): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Missile.cpp
+c:\users\pixir\desktop\college stuff\ai\spaceshooter\include\graph.h(141): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\pixir\desktop\college stuff\ai\spaceshooter\include\graph.h(159): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\pixir\desktop\college stuff\ai\spaceshooter\include\graph.h(132): warning C4101: 'pTemp': unreferenced local variable
+c:\users\pixir\desktop\college stuff\ai\spaceshooter\include\managedsprite.h(41): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\pixir\desktop\college stuff\ai\spaceshooter\src\missile.cpp(8): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\pixir\desktop\college stuff\ai\spaceshooter\src\missile.cpp(9): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\pixir\desktop\college stuff\ai\spaceshooter\src\missile.cpp(61): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\pixir\desktop\college stuff\ai\spaceshooter\src\missile.cpp(62): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\pixir\desktop\college stuff\ai\spaceshooter\src\missile.cpp(66): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\pixir\desktop\college stuff\ai\spaceshooter\src\missile.cpp(67): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\pixir\desktop\college stuff\ai\spaceshooter\src\missile.cpp(88): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\pixir\desktop\college stuff\ai\spaceshooter\src\missile.cpp(89): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\pixir\desktop\college stuff\ai\spaceshooter\src\missile.cpp(135): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\pixir\desktop\college stuff\ai\spaceshooter\src\missile.cpp(136): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  ManagedSprite.cpp
+c:\users\pixir\desktop\college stuff\ai\spaceshooter\include\managedsprite.h(41): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\pixir\desktop\college stuff\ai\spaceshooter\src\managedsprite.cpp(7): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\pixir\desktop\college stuff\ai\spaceshooter\src\managedsprite.cpp(54): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  game.cpp
+c:\users\pixir\desktop\college stuff\ai\spaceshooter\include\graph.h(141): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\pixir\desktop\college stuff\ai\spaceshooter\include\graph.h(159): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\pixir\desktop\college stuff\ai\spaceshooter\include\graph.h(132): warning C4101: 'pTemp': unreferenced local variable
+c:\users\pixir\desktop\college stuff\ai\spaceshooter\include\managedsprite.h(41): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\pixir\desktop\college stuff\ai\spaceshooter\include\cannon.h(41): warning C4305: 'initializing': truncation from 'double' to 'const float'
+c:\users\pixir\desktop\college stuff\ai\spaceshooter\src\game.cpp(33): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\pixir\desktop\college stuff\ai\spaceshooter\src\game.cpp(197): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  Cannon.cpp
+c:\users\pixir\desktop\college stuff\ai\spaceshooter\include\managedsprite.h(41): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\pixir\desktop\college stuff\ai\spaceshooter\include\graph.h(141): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\pixir\desktop\college stuff\ai\spaceshooter\include\graph.h(159): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\pixir\desktop\college stuff\ai\spaceshooter\include\graph.h(132): warning C4101: 'pTemp': unreferenced local variable
+c:\users\pixir\desktop\college stuff\ai\spaceshooter\include\cannon.h(41): warning C4305: 'initializing': truncation from 'double' to 'const float'
+c:\users\pixir\desktop\college stuff\ai\spaceshooter\src\cannon.cpp(7): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\pixir\desktop\college stuff\ai\spaceshooter\src\cannon.cpp(8): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\pixir\desktop\college stuff\ai\spaceshooter\src\cannon.cpp(23): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\pixir\desktop\college stuff\ai\spaceshooter\src\cannon.cpp(42): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\pixir\desktop\college stuff\ai\spaceshooter\src\cannon.cpp(67): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\pixir\desktop\college stuff\ai\spaceshooter\src\cannon.cpp(68): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\pixir\desktop\college stuff\ai\spaceshooter\src\cannon.cpp(88): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  Bullet.cpp
+c:\users\pixir\desktop\college stuff\ai\spaceshooter\include\graph.h(141): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\pixir\desktop\college stuff\ai\spaceshooter\include\graph.h(159): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\pixir\desktop\college stuff\ai\spaceshooter\include\graph.h(132): warning C4101: 'pTemp': unreferenced local variable
+c:\users\pixir\desktop\college stuff\ai\spaceshooter\include\managedsprite.h(41): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\pixir\desktop\college stuff\ai\spaceshooter\src\bullet.cpp(7): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\pixir\desktop\college stuff\ai\spaceshooter\src\bullet.cpp(8): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\pixir\desktop\college stuff\ai\spaceshooter\src\bullet.cpp(47): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\pixir\desktop\college stuff\ai\spaceshooter\src\bullet.cpp(48): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\pixir\desktop\college stuff\ai\spaceshooter\src\bullet.cpp(54): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\pixir\desktop\college stuff\ai\spaceshooter\src\bullet.cpp(55): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\pixir\desktop\college stuff\ai\spaceshooter\src\bullet.cpp(59): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\pixir\desktop\college stuff\ai\spaceshooter\src\bullet.cpp(60): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\pixir\desktop\college stuff\ai\spaceshooter\src\bullet.cpp(85): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\pixir\desktop\college stuff\ai\spaceshooter\src\bullet.cpp(86): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\pixir\desktop\college stuff\ai\spaceshooter\src\bullet.cpp(143): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\pixir\desktop\college stuff\ai\spaceshooter\src\bullet.cpp(144): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Generating Code...
+  Compiling...
+  Explosion.cpp
+c:\users\pixir\desktop\college stuff\ai\spaceshooter\include\graph.h(141): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\pixir\desktop\college stuff\ai\spaceshooter\include\graph.h(159): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\pixir\desktop\college stuff\ai\spaceshooter\include\graph.h(132): warning C4101: 'pTemp': unreferenced local variable
+c:\users\pixir\desktop\college stuff\ai\spaceshooter\include\managedsprite.h(41): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Block.cpp
+c:\users\pixir\desktop\college stuff\ai\spaceshooter\include\managedsprite.h(41): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\pixir\desktop\college stuff\ai\spaceshooter\src\block.cpp(9): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\pixir\desktop\college stuff\ai\spaceshooter\src\block.cpp(10): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Generating Code...
+  Project.vcxproj -> C:\Users\pixir\Desktop\College Stuff\AI\SpaceShooter\x64\Debug\Project.exe
+  Project.vcxproj -> C:\Users\pixir\Desktop\College Stuff\AI\SpaceShooter\x64\Debug\Project.pdb (Partial PDB)
